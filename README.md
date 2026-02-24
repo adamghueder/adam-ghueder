@@ -1,6 +1,6 @@
 # Adam Ghueder | Entry-Level IT Support & Networking
 
-## 👋 About Me
+## About Me
 IT Support / Network Engineering professional 
 Building hands-on labs to develop real-world troubleshooting, system administration, and help desk experience.
 
