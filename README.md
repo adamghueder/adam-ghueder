@@ -17,7 +17,7 @@ Building hands-on labs to develop real-world troubleshooting, system administrat
 - Windows Administration
 
 ## 📂 Project Portfolio
-👉 https://github.com/YOURUSERNAME/it-homelab-projects
+👉 https://github.com/adamghueder/it-homelab-projects
 
 ## 🎯 Career Goal
 Entry-Level IT Support → Network Operations → Network Engineer
