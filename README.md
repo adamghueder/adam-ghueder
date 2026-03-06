@@ -1,19 +1,33 @@
 # Adam Ghueder
 
-**IT Support / Help Desk Technician** building hands-on experience with Windows Server, Active Directory, networking fundamentals, and endpoint security through homelab projects.
+**IT Support / Help Desk Technician** building hands-on experience with **Windows Server, Active Directory, networking, and endpoint security** through homelab projects.
+
+Currently studying for the **Cisco CCNA** while continuing to expand practical IT infrastructure skills.
 
 ---
 
 # Skills
 
+### Systems Administration
 * Active Directory Administration
 * Windows Server 2022
 * Windows 10/11 Troubleshooting
 * User Account Management
 * Role-Based Access Control (RBAC)
 * Endpoint Security Hardening
-* IT Help Desk Ticketing Systems
-* Virtualization (VirtualBox)
+
+### Networking
+* VLAN Segmentation
+* Inter-VLAN Routing
+* Router-on-a-Stick
+* Network Troubleshooting
+* TCP/IP Fundamentals
+
+### Tools & Platforms
+* VirtualBox
+* Cisco Packet Tracer
+* Spiceworks Help Desk
+* Windows Defender Firewall
 
 ---
 
@@ -47,6 +61,22 @@ Tasks demonstrated:
 * Group-based file access
 * Access validation and troubleshooting
 * Role-based access control implementation
+
+---
+
+## Cisco VLAN Network Lab
+
+Built a segmented enterprise-style network using **Cisco Packet Tracer**.
+
+Tasks demonstrated:
+
+* VLAN creation and segmentation
+* Switch port assignment
+* Trunk configuration
+* Router-on-a-stick configuration
+* Inter-VLAN routing
+* Static IP configuration
+* Network connectivity testing
 
 ---
 
@@ -95,6 +125,7 @@ Continuing to build hands-on experience with:
 * Networking fundamentals
 * IT support troubleshooting
 * Security best practices
+* Cisco CCNA certification studies
 
 Actively seeking an **IT Support / Help Desk position**.
 
@@ -102,11 +133,8 @@ Actively seeking an **IT Support / Help Desk position**.
 
 # Portfolio
 
-All labs are documented with technical walkthroughs and screenshots:
+All labs are documented with technical walkthroughs and screenshots in my repository:
 
-* Windows Endpoint Hardening Lab
-* Active Directory User Management Lab
-* Windows File Server RBAC Lab
-* Spiceworks Help Desk Ticketing Lab
+**it-homelab-projects**
 
-These projects demonstrate practical experience with tools and systems commonly used in **enterprise IT environments**.
+Projects demonstrate practical experience with systems and tools commonly used in **enterprise IT environments**.
